@@ -1,0 +1,33 @@
+body{
+    background: lightgoldenrodyellow;
+}
+
+header{
+    background: greenyellow
+    text-align: center;
+    height: 100px;
+    margin: .05em;
+}
+
+.top-pic{
+    max-height: 400px;
+}
+
+.pic-box {
+    padding: .05em;
+}
+section{
+    margin: 10px;
+    font-weight: bold;
+    line-height: 120%;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+footer{
+    width: 100%;
+    text-align: right;
+    background: silver;
+}
